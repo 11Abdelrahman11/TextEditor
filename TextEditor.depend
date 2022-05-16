@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1652743913 source:e:\abdelrahman\texteditor\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	"Functionsheaders.h"
+
+1652744541 e:\abdelrahman\texteditor\functionsheaders.h
+
+1652744395 source:e:\abdelrahman\texteditor\functions.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	"Functionsheaders.h"
+
